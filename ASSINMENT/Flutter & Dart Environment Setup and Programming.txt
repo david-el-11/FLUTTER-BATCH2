@@ -1,0 +1,57 @@
+Flutter Assignment – Module 1
+🔹 Theory Assignments
+1. Benefits of Using Flutter Over Other Cross-Platform Frameworks
+
+Flutter offers several advantages compared to frameworks like React Native or Xamarin:
+
+Single Codebase
+Write one code and run on Android, iOS, web, and desktop.
+Fast Development (Hot Reload)
+Changes appear instantly without restarting the app.
+High Performance
+Compiles to native ARM code, giving near-native performance.
+Beautiful UI
+Rich pre-designed widgets based on Material Design and Cupertino.
+Custom UI Flexibility
+No dependency on native UI components—everything is customizable.
+Strong Community Support
+Backed by Google with active updates.
+
+2. Role of Dart in Flutter & Its Advantages
+
+Flutter uses Dart as its programming language.
+
+Role of Dart:
+Used to write Flutter apps.
+Handles UI design, logic, and backend communication.
+Works with Flutter’s widget-based architecture.
+Advantages of Dart:
+Fast Compilation (Ahead-of-Time & Just-in-Time)
+Easy Syntax (Similar to Java/C++)
+Hot Reload Support
+Garbage Collection
+Strong Typing (reduces errors)
+
+4. Basic Flutter App Structure
+main.dart
+Entry point of Flutter app
+Contains main code
+main() Function
+
+ Widgets: The Flutter framework offers widgets, which are capable of  
+developing  customizable  specific  designs.  Most  importantly, Flutter has two 
+sets of widgets: Material Design and Cupertino widgets that help to provide a 
+glitch-free experience on all platforms.
+
+1. Setup & Verify Flutter
+
+Run in terminal:
+
+flutter doctor
+
+hello.dart
+
+void main(){
+
+	print("hello, I am divyaraj";
+}
